@@ -1,7 +1,7 @@
 package com.gildedrose.model;
 
 import com.gildedrose.Item;
-import com.gildedrose.decoration.ItemProcessors;
+import com.gildedrose.processor.ItemProcessors;
 
 public class ItemNormal extends DecoratedItem {
     public ItemNormal(Item item) {

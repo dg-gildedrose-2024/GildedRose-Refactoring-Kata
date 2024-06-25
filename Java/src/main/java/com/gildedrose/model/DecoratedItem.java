@@ -1,7 +1,6 @@
 package com.gildedrose.model;
 
 import com.gildedrose.Item;
-import com.gildedrose.decoration.ItemDecoration;
 
 public abstract class DecoratedItem extends Item implements ItemDecoration {
     Item item;

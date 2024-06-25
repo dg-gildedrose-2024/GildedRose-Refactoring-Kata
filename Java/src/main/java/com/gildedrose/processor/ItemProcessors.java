@@ -1,4 +1,4 @@
-package com.gildedrose.decoration;
+package com.gildedrose.processor;
 
 import com.gildedrose.Item;
 
